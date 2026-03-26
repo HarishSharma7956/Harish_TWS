@@ -1,4 +1,4 @@
  #dummy 
-thisis only foor demo 
+this is only for demo 
  
 sudo apt update
